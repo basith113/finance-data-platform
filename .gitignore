@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+.env
+aws_credentials.env
+*.csv
+data/
+__pycache__/
